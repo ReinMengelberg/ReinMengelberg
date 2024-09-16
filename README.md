@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/reinhard-mengelberg-50151829b/](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
 
-- ⚡ Fun fact **I love it when i tell people im i dabble in low-level programming and they think that means "not experienced"...**
+- ⚡ Fun fact **I love it when i tell people i dabble in low-level programming and they think that means "not experienced"...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
