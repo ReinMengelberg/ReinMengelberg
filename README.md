@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reinhard Mengelberg</h1>
-<h3 align="center">Partner & Lead Developer @ MengelMann</h3>
+<h3 align="center">Co-Founder & CTO @ MengelMann | Computer Sience @ École 42</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reinmengelberg&label=Profile%20views&color=0e75b6&style=flat" alt="reinmengelberg" /> </p>
 
