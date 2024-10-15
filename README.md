@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [nuxt.js](https://nuxt.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.mengelmann.nl](https://www.mengelmann.nl)
+- 👨‍💻 All of my projects are available at [MengelMann](https://www.mengelmann.nl)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/company/102776741/admin/dashboard/](https://www.linkedin.com/company/102776741/admin/dashboard/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
 
 - 💬 Ask me about **python, node.js, web-development, digital-marketing, ERP-systems**
 
