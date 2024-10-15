@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
 
-- 💬 Ask me about **python, node.js, web-development, digital-marketing, ERP-systems**
+- 💬 Ask me about **python, node.js, web-development, MALLM, AI, digital-marketing, ERP-systems**
 
 - 📫 How to reach me **reinhard@mengelmann.nl**
 
