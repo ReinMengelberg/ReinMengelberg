@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **reinhard@mengelmann.nl**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/reinhard-mengelberg-50151829b/](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
 
 - ⚡ Fun fact **I love it when i tell people i dabble in low-level programming and they think that means "not experienced"...**
 
