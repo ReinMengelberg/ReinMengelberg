@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C(++), nuxt.js**
 
-- 👯 I’m looking to collaborate on [odoo](https://www.odoo.com/)
+- 👯 I’m looking to collaborate on [Frappe](https://www.frappe.io/)
 
 - 🤝 I’m looking for help with [nuxt.js](https://nuxt.com/)
 
