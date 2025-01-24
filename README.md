@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [MengelMann B.V.](https://www.mengelmann.nl)
 
-- 🌱 I’m currently learning **C(++), nuxt.js**
+- 🌱 I’m currently learning **C(++), NUXT.js and Laravel**
 
 - 👯 I’m looking to collaborate on [Frappe](https://www.frappe.io/)
-
-- 🤝 I’m looking for help with [nuxt.js](https://nuxt.com/)
 
 - 👨‍💻 All of my projects are available at [MengelMann](https://www.mengelmann.nl)
 
