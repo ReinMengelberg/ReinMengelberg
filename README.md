@@ -1,44 +1,37 @@
-<h1 align="center">Hi 👋, I'm Reinhard Mengelberg</h1>
-<h3 align="center">Co-Founder & CTO @ MengelMann | Computer Sience @ École 42</h3>
+<h1 align="center"><b>Hi, i'm</b></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reinmengelberg&label=Profile%20views&color=0e75b6&style=flat" alt="reinmengelberg" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinmengelberg" alt="reinmengelberg" /></a> </p>
-
-- 🔭 I’m currently working on [MengelMann B.V.](https://www.mengelmann.nl)
-
-- 🌱 I’m currently learning **C(++), NUXT.js and Laravel**
-
-- 👯 I’m looking to collaborate on [Frappe](https://www.frappe.io/)
-
-- 👨‍💻 All of my projects are available at [MengelMann](https://www.mengelmann.nl)
-
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
-
-- 💬 Ask me about **python, node.js, web-development, MALLM, AI, digital-marketing, ERP-systems**
-
-- 📫 How to reach me **reinhard@mengelmann.nl**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/reinhard-mengelberg-50151829b/)
-
-- ⚡ Fun fact **I love it when i tell people i dabble in low-level programming and they think that means "not experienced"...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reinhard-mengelberg-50151829b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinhard-mengelberg-50151829b" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=0014FF&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Reinhard+Mengelberg;A+Fullstack+Developer,;A+CTO+and+Entrepeneur,;An+Experienced+Salesman,"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reinmengelberg&show_icons=true&locale=en&layout=compact" alt="reinmengelberg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinmengelberg&show_icons=true&locale=en" alt="reinmengelberg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reinmengelberg&" alt="reinmengelberg" /></p>
-
-
-<!---
-ReinMengelberg/ReinMengelberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<h2 id="-about-me"><strong>About me</strong></h2>
+<h3><strong>Co-Founder & CTO @ <a target="_blank" href="https://applyfin.com">Applyfin</a></strong></h3
+<div class="bio-container" style="font-family: Arial, sans-serif; max-width: 700px; margin: 0 auto; line-height: 1.6;">
+  <p style="font-size: 18px; margin-bottom: 20px;">
+    <strong>Some people tell me you don't need much to be happy.</strong> I agree, I just know how to do <strong>2 things</strong>, and I really love them!
+  </p>
+  <div class="skill-section" style="margin-bottom: 30px;">
+    <h3 style="color: #333; border-bottom: 2px solid #eee; padding-bottom: 8px; margin-bottom: 15px;">
+      <strong>Programming</strong>
+    </h3>
+    <p style="margin-left: 15px;">
+      As a full-stack developer, I combine my lifelong curiosity about technical solutions with the creative freedom to <strong>build virtually anything</strong>. People have referred to me as '<em>The JavaScript Wizard</em>' and I agree. With the right approach programming can be truly magical.
+    </p>
+  </div>
+  <div class="skill-section" style="margin-bottom: 30px;">
+    <h3 style="color: #333; border-bottom: 2px solid #eee; padding-bottom: 8px; margin-bottom: 15px;">
+      <strong>Sales</strong>
+    </h3>
+    <p style="margin-left: 15px;">
+      My enthusiasm for technology shines in client interactions. I really like understanding businesses and finding out what they need. <strong>I won't sell to you if you don't need my product.</strong> But if you do, my passion becomes contagious—you'll likely be eager to formalize our partnership by day's end.
+    </p>
+  </div>
+  <p style="font-size: 18px; font-style: italic; text-align: center; margin-top: 30px; color: #555;">
+    <em>This is it - everything I want to do, every day, every week, every year.</em>
+  </p>
+</div>
+<br>
+<p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br></p>
+<h2 id="-skills"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="25"><b> Skills</b></h2>
+<br>
+<p align="center">
